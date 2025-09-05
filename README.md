@@ -37,9 +37,12 @@ As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 
 ---
 
-## ✉️ Contato
-
-Para dúvidas, sugestões ou oportunidades, entre em contato.
-
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/84920803?v=4" width=115><br><sub>Nicolas David</sub>](https://github.com/nicolasdavid-datascience) |
+## Desenvolvedor
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/67049ae6-daaf-4374-955c-c96e04310e6e?v=4" width=115><br><sub>Nicolas David</sub>](https://github.com/nicolasdavid-datascience) |
 | :---: |
+
+---
+
+## 📜 Licença
+
+Este projeto é open-source e está disponível para uso livre.
