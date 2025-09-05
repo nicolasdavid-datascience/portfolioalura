@@ -134,7 +134,7 @@ body{
     }
 
     .apresentacao__conteudo {
-        width: 80%;
+        width: auto;
     }
 
     .apresentacao__imagem {
